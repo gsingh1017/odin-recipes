@@ -1,0 +1,26 @@
+/* style.css */
+
+* {
+    color: white;
+    font-family: Arial, "Times New Roman", sans-serif;
+    background-color: darkolivegreen;
+    font-size: 18px;
+}
+
+.h1 {
+    font-size: 64px;
+    font-weight: bold;
+    padding: 1%;
+}
+
+.h2 {
+    font-size: 32px;
+    padding-top: 1%;
+}
+
+.links {
+    font-size: 24px;
+    font-style: italic;
+}
+
+
