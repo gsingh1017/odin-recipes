@@ -7,6 +7,12 @@
     font-size: 18px;
 }
 
+.index-title {
+    display: block;
+    font-size: 64px;
+    padding: 1%;
+}
+
 .h1 {
     font-size: 64px;
     font-weight: bold;
@@ -18,7 +24,13 @@
     padding-top: 1%;
 }
 
-.links {
+.recipe-links {
+    background-color: blanchedalmond;
+    color: black;
+    display: inline-block;
+    padding: 12px;
+    border: 2px black solid;
+    margin: 8px;
     font-size: 24px;
     font-style: italic;
 }
